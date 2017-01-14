@@ -1,0 +1,7 @@
+### INI_POOKDEVELOPER ###
+127.0.0.1 adsearch.www1.biz
+127.0.0.1 aguileranude.1stok.com
+127.0.0.1 aid-golf-golfdust-training.tabrays.com
+127.0.0.1 air-plane-ticket.beesearch.info
+127.0.0.1 al.5.p2l.info
+### FIN_POOKDEVELOPER ###
